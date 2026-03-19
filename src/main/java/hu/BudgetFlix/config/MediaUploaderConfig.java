@@ -15,7 +15,7 @@ public class MediaUploaderConfig {
     }
 
     public static String REMOTE_TARGET() {
-        return "/srv/media/inbox/new";
+        return "/srv/budgetflix/media/inbox/new";
     }
 
     public static String STANDARD_JOB_DIRECTORY() {
